@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://lybashevv.000webhostapp.com/index.html</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lybashevv.000webhostapp.com/images/fasdfgg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lybashevv.000webhostapp.com/images/iconrqwerq.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lybashevv.000webhostapp.com/images/logo4324.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lybashevv.000webhostapp.com/images/strelka.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://lybashevv.000webhostapp.com/politica.html</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
